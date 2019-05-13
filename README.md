@@ -46,4 +46,31 @@ python scripts used for wrangling the data in iteration 2
 #### output json file
 ![8](https://user-images.githubusercontent.com/50584119/57636650-dbb03280-75ec-11e9-88c3-1fd66cdb0852.GIF)
 
+### 3. parks
+
+#### input csv file
+![1](https://user-images.githubusercontent.com/50584119/57638770-d0133a80-75f1-11e9-9560-34d3cb9ac639.GIF)
+
+#### code
+![2](https://user-images.githubusercontent.com/50584119/57638771-d0abd100-75f1-11e9-8867-4b4ad5cd9422.GIF)
+![3](https://user-images.githubusercontent.com/50584119/57638772-d0abd100-75f1-11e9-8770-c3e0ae69159e.GIF)
+![4](https://user-images.githubusercontent.com/50584119/57638773-d1446780-75f1-11e9-99db-c23c4e59a114.GIF)
+
+#### reverse geocoding functionality
+![5](https://user-images.githubusercontent.com/50584119/57638774-d1446780-75f1-11e9-8f66-6234926c4231.GIF)
+
+#### code
+![6](https://user-images.githubusercontent.com/50584119/57638776-d1dcfe00-75f1-11e9-9683-6fd3a1393e6e.GIF)
+![7](https://user-images.githubusercontent.com/50584119/57638777-d1dcfe00-75f1-11e9-8245-fe96cd57854d.GIF)
+![8](https://user-images.githubusercontent.com/50584119/57638780-d2759480-75f1-11e9-8a15-7b7a356525f1.GIF)
+
+#### output csv file
+![9](https://user-images.githubusercontent.com/50584119/57638781-d2759480-75f1-11e9-84e8-ab768746b602.GIF)
+
+#### code
+![10](https://user-images.githubusercontent.com/50584119/57638784-d30e2b00-75f1-11e9-8fdf-25e51259338c.GIF)
+
+#### output json file
+![11](https://user-images.githubusercontent.com/50584119/57638785-d3a6c180-75f1-11e9-8640-1e2bd5e6f6f0.GIF)
+
 
