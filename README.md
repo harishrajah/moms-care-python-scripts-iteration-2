@@ -77,4 +77,30 @@ python scripts used for wrangling the data in iteration 2
 #### output json file
 ![11](https://user-images.githubusercontent.com/50584119/57638785-d3a6c180-75f1-11e9-8640-1e2bd5e6f6f0.GIF)
 
+### 4.toilets
+
+#### input csv file
+![1](https://user-images.githubusercontent.com/50584119/57640057-c6d79d00-75f4-11e9-806c-e1a47349fe8e.GIF)
+
+#### code
+![2](https://user-images.githubusercontent.com/50584119/57640058-c6d79d00-75f4-11e9-8ac4-0d921a87dbba.GIF)
+![3](https://user-images.githubusercontent.com/50584119/57640060-c6d79d00-75f4-11e9-9048-f2100f847c5d.GIF)
+
+#### reverse geocoding functionality
+![4](https://user-images.githubusercontent.com/50584119/57640061-c7703380-75f4-11e9-9eca-05ca333eb866.GIF)
+
+#### code
+![5](https://user-images.githubusercontent.com/50584119/57640062-c7703380-75f4-11e9-91c1-f4b8b7fdb7d4.GIF)
+![6](https://user-images.githubusercontent.com/50584119/57640063-c7703380-75f4-11e9-8700-74bbd64effef.GIF)
+![7](https://user-images.githubusercontent.com/50584119/57640064-c808ca00-75f4-11e9-9ea6-33bb6829b969.GIF)
+
+#### ouput csv file
+![8](https://user-images.githubusercontent.com/50584119/57640065-c808ca00-75f4-11e9-90d1-50415b592206.GIF)
+
+#### code
+![9](https://user-images.githubusercontent.com/50584119/57640067-c8a16080-75f4-11e9-9551-245bb1e9feea.GIF)
+
+#### output json file
+![10](https://user-images.githubusercontent.com/50584119/57640070-c939f700-75f4-11e9-9f59-b0523a597580.GIF)
+
 
