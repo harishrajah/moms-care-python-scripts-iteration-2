@@ -103,4 +103,25 @@ python scripts used for wrangling the data in iteration 2
 #### output json file
 ![10](https://user-images.githubusercontent.com/50584119/57640070-c939f700-75f4-11e9-9f59-b0523a597580.GIF)
 
+### 5.hospital
+
+#### input csv file
+![1](https://user-images.githubusercontent.com/50584119/57640677-7b25f300-75f6-11e9-862c-4758f91cdbb9.GIF)
+
+#### code
+![2](https://user-images.githubusercontent.com/50584119/57640679-7bbe8980-75f6-11e9-84f5-ac3736ed177a.GIF)
+![3](https://user-images.githubusercontent.com/50584119/57640682-7bbe8980-75f6-11e9-948d-9eacd3341aa1.GIF)
+![4](https://user-images.githubusercontent.com/50584119/57640684-7bbe8980-75f6-11e9-86e0-51a33c09ebc3.GIF)
+![5](https://user-images.githubusercontent.com/50584119/57640686-7c572000-75f6-11e9-9020-19b0b8248dd6.GIF)
+
+#### output csv file
+![6](https://user-images.githubusercontent.com/50584119/57640689-7c572000-75f6-11e9-83da-6aa390ab999e.GIF)
+
+#### code
+![7](https://user-images.githubusercontent.com/50584119/57640692-7cefb680-75f6-11e9-9795-56efb57a3b4c.GIF)
+
+#### output json file
+![8](https://user-images.githubusercontent.com/50584119/57640695-7cefb680-75f6-11e9-9bac-01c761af70b3.GIF)
+
+
 
