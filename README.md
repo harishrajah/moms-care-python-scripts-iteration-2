@@ -126,6 +126,10 @@ python scripts used for wrangling the data in iteration 2
 ### 6.vaccination description
 ![1](https://user-images.githubusercontent.com/50584119/57641806-3c456c80-75f9-11e9-98d7-2b16e6130094.GIF)
 
+### 7.vaccination schedule_countries
+![2](https://user-images.githubusercontent.com/50584119/57642104-e3c29f00-75f9-11e9-84a1-83ba46e5783a.GIF)
+
+
 
 
 
