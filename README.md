@@ -11,6 +11,8 @@ python scripts used for wrangling the data in iteration 2
 
 #### reverse geocoding functionality
 ![3](https://user-images.githubusercontent.com/50584119/57632501-2463ed80-75e5-11e9-9760-93fdde533c3c.GIF)
+
+#### code
 ![4](https://user-images.githubusercontent.com/50584119/57632502-24fc8400-75e5-11e9-82e2-7ec78bd568da.GIF)
 ![5](https://user-images.githubusercontent.com/50584119/57632504-24fc8400-75e5-11e9-861b-cabd65b2bfd4.GIF)
 ![6](https://user-images.githubusercontent.com/50584119/57632506-25951a80-75e5-11e9-9908-dd9a24536140.GIF)
@@ -34,6 +36,8 @@ python scripts used for wrangling the data in iteration 2
 
 #### reverse geocoding functionality
 ![3](https://user-images.githubusercontent.com/50584119/57636645-da7f0580-75ec-11e9-9940-9cdb7b486fff.GIF)
+
+#### code
 ![4](https://user-images.githubusercontent.com/50584119/57636646-da7f0580-75ec-11e9-8cfb-5a3c3e5666c1.GIF)
 ![5](https://user-images.githubusercontent.com/50584119/57636647-db179c00-75ec-11e9-9a72-697a66300664.GIF)
 
